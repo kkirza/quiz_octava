@@ -1,0 +1,21 @@
+@font-face{font-family:"ComicSansMS-Bold";src:local("ComicSansMS-Bold"),url("../fonts/comic sans/ComicSansMS-Bold.woff2") format("woff2"),url("../fonts/comic sans/ComicSansMS-Bold.woff") format("woff")} @font-face{font-family:"Inter-Bold";src:local("Inter-Bold"),url("../fonts/inter/Inter-Bold.woff2") format("woff2"),url("../fonts/inter/Inter-Bold.woff") format("woff")} @font-face{font-family:"Inter-Light";src:local("Inter-Light"),url("../fonts/inter/Inter-Light.woff2") format("woff2"),url("../fonts/inter/Inter-Light.woff") format("woff")} @font-face{font-family:"Inter-Regular";src:local("Inter-Regular"),url("../fonts/inter/Inter-Regular.woff2") format("woff2"),url("../fonts/inter/Inter-Regular.woff") format("woff")} @font-face{font-family:"Inter-SemiBold";src:local("Inter-SemiBold"),url("../fonts/inter/Inter-SemiBold.woff2") format("woff2"),url("../fonts/inter/Inter-SemiBold.woff") format("woff")} @font-face{font-family:"Mont-Heavy";src:local("Mont-Heavy"),url("../fonts/mont-heavy/Mont-Heavy.woff2") format("woff2"),url("../fonts/mont-heavy/Mont-Heavy.woff") format("woff")}@font-face{font-family:"Mont-Heavy-ExtraLight";src:local("Mont-ExtraLight"),url("../fonts/mont-heavy/Mont-ExtraLight.woff2") format("woff2"),url("../fonts/mont-heavy/Mont-ExtraLight.woff") format("woff")}@font-face{font-family:"Montserrat-Black";src:local("Montserrat-Black"),url("../fonts/montserrat/Montserrat-Black.woff") format("woff")}
+
+
+/*  INTER */
+.Inter-Bold{font-family: "Inter-Bold";}
+.Inter-Light{font-family: "Inter-Light";}
+.Inter-Regular{font-family: "Inter-Regular";}
+.Inter-SemiBold{font-family: "Inter-SemiBold";}
+
+/* MONT-HEAVY */
+.Mont-Heavy{font-family: "Mont-Heavy";}
+.Mont-Heavy-ExtraLight{font-family: "Mont-Heavy-ExtraLight";}
+
+/* ComicSansMS */
+ .ComicSansMS-Bold{font-family: "ComicSansMS-Bold";}
+
+ /* MontSerrat */
+ .Montserrat-Black{font-family: "Montserrat-Black";}
+
+
+
