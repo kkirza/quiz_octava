@@ -225,7 +225,7 @@ function changeLastQuastion(step) {
 
 function showFeedback() {
 	$('.quiz__medium_title').addClass('active')
-	$('.quiz__medium_title').html('<img src="/assets/img/quiz__surprise_span.svg"><p>и получить <span>скидку</span> на абонемент до <span>25%</span></p>');
+	$('.quiz__medium_title').html('<img src="assets/img/quiz__surprise_span.svg"><p>и получить <span>скидку</span> на абонемент до <span>25%</span></p>');
 	$('.quiz__surprise__target, .quiz__surprise__target__table, .quiz__surprise__target__mobile').addClass('hide_ZK')
 	$('.quiz__big_title').text('Оставь заявку, чтобы узнать результат')
 	$('.quiz__promo__mobile, .quiz__promo__desc, .quiz__promo__table').removeClass('hide_ZK')
